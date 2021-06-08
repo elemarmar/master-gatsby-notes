@@ -68,4 +68,4 @@ Gatsby automatically converts react components in `src/pages` into pages.
 
   
 
-  
+  'react-icons/md'; this library imports the icon and not the entire library

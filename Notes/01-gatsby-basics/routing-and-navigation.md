@@ -13,7 +13,8 @@
 
   - 🔗 [Gatsby](https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-link/)
 
-    
+
+  
 
 - **What is the Link component in Gatsby?**
 
@@ -69,7 +70,9 @@
   navigate('/languages', { replace: true });
   ```
 
+  **hello** <strong>hello</strong> 
   
+  > Hellos this is **hello there **
 
 ---
 
